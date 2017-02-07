@@ -1,38 +1,28 @@
 h1{
   text-align: center;
-  color: red;
-  outline-style: ridge;
+  color: blue;
+  outline-color: orange;
+  font-size: 50px;
 }
 h2{
   text-align: left;
   font-style: italic;
-  color: orange;
-  font-size: 70px
+  color: black;
+  font-size: 40px;
 }
 img{
   width: 400px;
   length: 600px;
+  height: auto;
 }
-li{
-  font-size: 45px;
-  color: brown;
+li, ul{
+  font-size: 30px;
+  color: black;
+  font-size: 30px;
+  line-height: 30px;
+}
 
-  h1{
-    color: purple;
-  }
-  h2{
-    font-style: italic;
-    text-align: center;
-  }
   p {
     font-weight: bold;
     font-family: sans-serif;
-  }
-  img {
-      width: 100%;
-      height: auto;
-  }
-  ul {
-    font-size: 20px;
-    line-height: 30px;
-  }
+}
