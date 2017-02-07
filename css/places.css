@@ -1,1 +1,19 @@
-{}
+h1{
+  text-align: center;
+  color: red;
+  outline-style: ridge;
+}
+h2{
+  text-align: left;
+  font-style: italic;
+  color: orange;
+  font-size: 70px
+}
+img{
+  width: 400px;
+  length: 600px;
+}
+li{
+  font-size: 45px;
+  color: brown;
+}
